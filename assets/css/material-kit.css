@@ -17873,6 +17873,7 @@ select.bs-select-hidden, select.selectpicker {
 .profile-page .profile img {
   max-width: 250px;
   width: 100%;
+  height: 250px;
   margin: 0 auto;
   -webkit-transform: translate3d(0, -50%, 0);
   -moz-transform: translate3d(0, -50%, 0);
